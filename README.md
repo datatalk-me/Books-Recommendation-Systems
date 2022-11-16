@@ -9,4 +9,4 @@ The purpose of a recommendation system basically is to search for content that w
 
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/datatalk-me/Books-Recommendation-Systems/blob/main/img.png)
